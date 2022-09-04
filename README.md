@@ -1,8 +1,8 @@
 - 👋 Bonjour, je m'appelle @philbourg
 - 👀 I’m interested in cultural diversity, social justice, individual and cultural emancipation, computer engineering and Art 
-- 🌱 I’m currently learning Wordpress, NFT, Blockchain, Smart Contracts, Affinty Designer, Linux Server
+- 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on making a great tool that will brings "démocratie directe", eliminate poverty and protect cultural diversity to all human being
-- 📫 How to reach me  : phil@quaribou.net
+- 📫 How to reach me : phil@quaribou.net
 
 La vraie richesse, c'est la différence
 L'argent doit être utile 
