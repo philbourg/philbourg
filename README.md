@@ -4,7 +4,7 @@
 - 💞️ Je cherche à collaborer à la création d'outils qui apporteront la démocratie directe, éliminera la pauvreté et protégera la diversité culturelle pour tous les êtres humains.
 - 📫 Comment me joindre : phil@quaribou.net
 
-- 👋 Bonjour, je m'appelle @philbourg
+- 👋 Bonjour, my name is @philbourg
 - 👀 I’m interested in cultural diversity, social justice, individual and cultural emancipation, computer engineering and Art 
 - 🌱 I’m currently learning Large Scale Web Developement Architecture
 - 💞️ I’m looking to collaborate on making great tools that will bring "démocratie directe", eliminate poverty and protect cultural diversity to all human being
